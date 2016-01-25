@@ -1,6 +1,6 @@
 # Mopho Morphosis
 
-Based on the Teensy LC µprocessor, this hack adds the following features to the Mopho Desktop from (the keyboard version should work equally well):
+Based on the Teensy LC µprocessor, this hack adds the following features to the DSI Mopho Desktop (the keyboard version should work equally well):
 
 
 ### Features
