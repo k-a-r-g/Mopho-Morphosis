@@ -16,7 +16,7 @@
 //    #define PRODUCT_NAME    {'T','e','e','n','s','y',' ','M','I','D','I'}
 //    #define PRODUCT_NAME_LEN  11
 //
-//  into:
+//  to:
 //    #define VENDOR_ID   0x16C0
 //    #define PRODUCT_ID    0x03E9
 //    #define MANUFACTURER_NAME {'D','a','v','e','S','m','i','t','h','I','n','s','t','r','u','m','e','n','t','s'}

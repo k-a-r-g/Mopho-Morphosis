@@ -10,7 +10,7 @@ void getConfig( byte *data, unsigned int mlength) {
 
 void clockTick() {
   if (!(clockCounter % 24)) {
-    if (!midiClock) {
+    if (midiClock) {
       if (digitalRead(CLOCK_LED)) digitalWrite(CLOCK_LED, LOW);
       else analogWrite(CLOCK_LED, 150);
     }
